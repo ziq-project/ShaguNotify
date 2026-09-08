@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: |cff33ffccShagu|cffffffffNotify
+## Title: |cff33ffccShagu|cffffffffNotify |cff7fff7f - Project Legacy|r
 ## Author: Shagu | a Project Legacy fork by ziq
 ## Notes: An Achievement Alike Notification System For Custom Events
 ## Version: 0.1
